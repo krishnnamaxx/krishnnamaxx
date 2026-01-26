@@ -7,7 +7,11 @@ I enjoy learning by building things and keeping my work simple.
 
 ---
 
-My main tech stack includes TypeScript and React, and I’m continuously exploring modern web development.
+Tech stack
+- TypeScript  
+- React  
+- Node.js  
+- HTML, CSS, JavaScript  
 
 ---
 
