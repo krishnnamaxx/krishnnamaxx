@@ -32,7 +32,7 @@
 
 <br>
 
-## 🧰 Tech Stack (Click to Expand)
+## 🧰 Tech Stack
 
 <details>
 <summary>🔥 MERN Stack</summary>
