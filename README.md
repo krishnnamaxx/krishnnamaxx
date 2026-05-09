@@ -1,4 +1,4 @@
-```md id="krishna-readme"
+
 # Krishna/README.md
 
 JavaScript — primary · React — frontend · Node.js — backend
@@ -36,4 +36,4 @@ Frontend-focused MERN developer building responsive and scalable web application
 ## currently learning
 
 TypeScript · System design · Scalable applications
-```
+
