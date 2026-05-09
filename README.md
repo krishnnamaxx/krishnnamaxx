@@ -1,11 +1,11 @@
 
 # Krishna/README.md
 
-JavaScript — primary · React — frontend · Node.js — backend
+React — frontend · Node.js — backend
 
 Frontend-focused MERN developer building responsive and scalable web applications.
 
-→ creating interfaces that feel smooth, modern, and reliable in real-world usage.
+creating interfaces that feel smooth, modern, and reliable in real-world usage.
 
 ## what I use
 
